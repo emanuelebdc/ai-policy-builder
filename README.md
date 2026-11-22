@@ -31,8 +31,9 @@ I engineered **AI Policy Builder** in Milan as a self-contained, client-side web
 ## ✦ Visual Interface & Policy Architecture
 
 <p align="center">
-  <img src="assets/cover.jpg" alt="AI Policy Builder Architectural Overview" width="100%">
+  <img src="assets/screenshot.jpg" alt="AI Policy Builder — Wizard Interattivo di Valutazione e Redazione Policy" width="100%">
 </p>
+<p align="center"><em>Wizard interattivo in 3 fasi: profilazione aziendale, matrice degli strumenti consentiti/vietati e redazione automatica del disciplinare conforme all'EU AI Act.</em></p>
 
 ---
 
